@@ -1,0 +1,15 @@
+C:\Users\Dorivaldo Dos Santos\Documents\Visual Studio 2012\Projects\Novamente - Cópia\Atributos\bin\Debug\Atributos.dll
+C:\Users\Dorivaldo Dos Santos\Documents\Visual Studio 2012\Projects\Novamente - Cópia\Atributos\bin\Debug\Atributos.pdb
+C:\Users\Dorivaldo Dos Santos\Documents\Visual Studio 2012\Projects\Novamente - Cópia\Atributos\obj\Debug\Atributos.csprojResolveAssemblyReference.cache
+C:\Users\Dorivaldo Dos Santos\Documents\Visual Studio 2012\Projects\Novamente - Cópia\Atributos\obj\Debug\Atributos.dll
+C:\Users\Dorivaldo Dos Santos\Documents\Visual Studio 2012\Projects\Novamente - Cópia\Atributos\obj\Debug\Atributos.pdb
+C:\Users\Dorivaldo Dos Santos\Documents\Visual Studio 2012\Projects\Proprio\Atributos\bin\Debug\Atributos.dll
+C:\Users\Dorivaldo Dos Santos\Documents\Visual Studio 2012\Projects\Proprio\Atributos\bin\Debug\Atributos.pdb
+C:\Users\Dorivaldo Dos Santos\Documents\Visual Studio 2012\Projects\Proprio\Atributos\obj\Debug\Atributos.dll
+C:\Users\Dorivaldo Dos Santos\Documents\Visual Studio 2012\Projects\Proprio\Atributos\obj\Debug\Atributos.pdb
+C:\Users\Dorivaldo Dos Santos\Documents\Visual Studio 2012\Projects\Proprio\Atributos\obj\Debug\Atributos.csprojResolveAssemblyReference.cache
+C:\Users\Dorivaldo Dos Santos\Documents\Meu Projecto\Proprio\Atributos\bin\Debug\Atributos.dll
+C:\Users\Dorivaldo Dos Santos\Documents\Meu Projecto\Proprio\Atributos\bin\Debug\Atributos.pdb
+C:\Users\Dorivaldo Dos Santos\Documents\Meu Projecto\Proprio\Atributos\obj\Debug\Atributos.csprojResolveAssemblyReference.cache
+C:\Users\Dorivaldo Dos Santos\Documents\Meu Projecto\Proprio\Atributos\obj\Debug\Atributos.dll
+C:\Users\Dorivaldo Dos Santos\Documents\Meu Projecto\Proprio\Atributos\obj\Debug\Atributos.pdb

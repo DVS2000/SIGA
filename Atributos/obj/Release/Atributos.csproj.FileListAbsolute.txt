@@ -1,0 +1,10 @@
+C:\Users\Dorivaldo Dos Santos\Documents\Visual Studio 2012\Projects\Proprio\Atributos\bin\Release\Atributos.dll
+C:\Users\Dorivaldo Dos Santos\Documents\Visual Studio 2012\Projects\Proprio\Atributos\bin\Release\Atributos.pdb
+C:\Users\Dorivaldo Dos Santos\Documents\Visual Studio 2012\Projects\Proprio\Atributos\obj\Release\Atributos.csprojResolveAssemblyReference.cache
+C:\Users\Dorivaldo Dos Santos\Documents\Visual Studio 2012\Projects\Proprio\Atributos\obj\Release\Atributos.dll
+C:\Users\Dorivaldo Dos Santos\Documents\Visual Studio 2012\Projects\Proprio\Atributos\obj\Release\Atributos.pdb
+C:\Users\Dorivaldo Dos Santos\Documents\Meu Projecto\Proprio\Atributos\bin\Release\Atributos.dll
+C:\Users\Dorivaldo Dos Santos\Documents\Meu Projecto\Proprio\Atributos\bin\Release\Atributos.pdb
+C:\Users\Dorivaldo Dos Santos\Documents\Meu Projecto\Proprio\Atributos\obj\Release\Atributos.csprojResolveAssemblyReference.cache
+C:\Users\Dorivaldo Dos Santos\Documents\Meu Projecto\Proprio\Atributos\obj\Release\Atributos.dll
+C:\Users\Dorivaldo Dos Santos\Documents\Meu Projecto\Proprio\Atributos\obj\Release\Atributos.pdb

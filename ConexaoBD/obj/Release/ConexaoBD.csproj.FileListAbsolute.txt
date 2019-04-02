@@ -1,0 +1,21 @@
+C:\Users\Dorivaldo Dos Santos\Documents\Visual Studio 2012\Projects\Proprio\ConexaoBD\bin\Release\ConexaoBD.dll.config
+C:\Users\Dorivaldo Dos Santos\Documents\Visual Studio 2012\Projects\Proprio\ConexaoBD\bin\Release\ConexaoBD.dll
+C:\Users\Dorivaldo Dos Santos\Documents\Visual Studio 2012\Projects\Proprio\ConexaoBD\bin\Release\ConexaoBD.pdb
+C:\Users\Dorivaldo Dos Santos\Documents\Visual Studio 2012\Projects\Proprio\ConexaoBD\bin\Release\Atributos.dll
+C:\Users\Dorivaldo Dos Santos\Documents\Visual Studio 2012\Projects\Proprio\ConexaoBD\bin\Release\Atributos.pdb
+C:\Users\Dorivaldo Dos Santos\Documents\Visual Studio 2012\Projects\Proprio\ConexaoBD\obj\Release\ConexaoBD.csprojResolveAssemblyReference.cache
+C:\Users\Dorivaldo Dos Santos\Documents\Visual Studio 2012\Projects\Proprio\ConexaoBD\obj\Release\ConexaoBD.dll
+C:\Users\Dorivaldo Dos Santos\Documents\Visual Studio 2012\Projects\Proprio\ConexaoBD\obj\Release\ConexaoBD.pdb
+C:\Users\Dorivaldo Dos Santos\Documents\Visual Studio 2012\Projects\Proprio\ConexaoBD\bin\Release\MySql.Data.dll
+C:\Users\Dorivaldo Dos Santos\Documents\Visual Studio 2012\Projects\Proprio\ConexaoBD\bin\Release\Google.Protobuf.dll
+C:\Users\Dorivaldo Dos Santos\Documents\Visual Studio 2012\Projects\Proprio\ConexaoBD\bin\Release\MySql.Data.xml
+C:\Users\Dorivaldo Dos Santos\Documents\Meu Projecto\Proprio\ConexaoBD\bin\Release\ConexaoBD.dll.config
+C:\Users\Dorivaldo Dos Santos\Documents\Meu Projecto\Proprio\ConexaoBD\bin\Release\ConexaoBD.dll
+C:\Users\Dorivaldo Dos Santos\Documents\Meu Projecto\Proprio\ConexaoBD\bin\Release\ConexaoBD.pdb
+C:\Users\Dorivaldo Dos Santos\Documents\Meu Projecto\Proprio\ConexaoBD\bin\Release\Atributos.dll
+C:\Users\Dorivaldo Dos Santos\Documents\Meu Projecto\Proprio\ConexaoBD\bin\Release\Google.Protobuf.dll
+C:\Users\Dorivaldo Dos Santos\Documents\Meu Projecto\Proprio\ConexaoBD\bin\Release\Atributos.pdb
+C:\Users\Dorivaldo Dos Santos\Documents\Meu Projecto\Proprio\ConexaoBD\bin\Release\MySql.Data.xml
+C:\Users\Dorivaldo Dos Santos\Documents\Meu Projecto\Proprio\ConexaoBD\obj\Release\ConexaoBD.csprojResolveAssemblyReference.cache
+C:\Users\Dorivaldo Dos Santos\Documents\Meu Projecto\Proprio\ConexaoBD\obj\Release\ConexaoBD.dll
+C:\Users\Dorivaldo Dos Santos\Documents\Meu Projecto\Proprio\ConexaoBD\obj\Release\ConexaoBD.pdb
