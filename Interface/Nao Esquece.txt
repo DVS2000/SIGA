@@ -1,0 +1,16 @@
+
+    <Grid Name="gridMain">
+        <Grid.Background>
+            <ImageBrush ImageSource="bin/fundo3.jpg"/>
+        </Grid.Background>
+        <WrapPanel HorizontalAlignment="Left">
+            <Image Source="bin/tudo.png" Width="220" Margin="0 25 0 0" />
+
+        </WrapPanel>
+        <TextBlock  FontSize="40" HorizontalAlignment="Center" FontStyle="Italic" Margin="60 80 0 0">
+                Ensino com qualidade, para 
+<LineBreak/>os seus filhos.
+        </TextBlock>
+        <!--<ProgressBar VerticalAlignment="Bottom" Margin="0 0 0 30" IsIndeterminate="True"/>-->
+    </Grid>
+    
